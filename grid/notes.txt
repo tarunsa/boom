@@ -1,0 +1,48 @@
+----overview----
+
+1)Bootstrap is a popular HTML,CSS and JAVASCRIPT framework for developing a responsive and mobile friendly website,
+2)It is a frontend framework used for easier and faster web development.
+3)It is absloutely free to download and use.
+4)It includes HTML,CSS based design templates for forms, buttons, links, tables, navigation, image carosels and many others.
+5)It is compatible on most of the browsers like chrome, firefox, internet explorer, safari and opera etc
+
+----Responsive----
+
+--> A website is called responsive website which can automatically adjust iteslf to look good all devices from smartphones to desktops.
+
+----Where to get Bootstrap----
+
+--> There are two ways to start using bootstrap 4.4 on your own web site. you can
+1)Include Bootstrap from CDN(content delivery network)
+2)Download bootstrap from getbootstrap
+
+################################################################################################
+
+What You Can Do with Bootstrap
+There are lot more things you can do with Bootstrap.
+
+1)You can easily create responsive websites.
+2)You can quickly create multi-column layout with pre-defined classes.
+3)You can quickly create different types of form layouts.
+4)You can quickly create different variation of navigation bar.
+5)You can easily create components like accordions, modals, etc. without writing any JS code.
+6)You can easily create dynamic tabs to manage large amount of content.
+7)You can easily create tooltips and popovers to show hint text.
+8)You can easily create carousel or image slider to showcase your content.
+9)You can quickly create different types of alert boxes.
+10)The list does not end here, there are many other interesting things that you can do with Bootstrap. You will learn about all of them in detail in upcoming chapters.
+
+####################################################################################################
+grid system
+1)Bootstrap grid system allows upto columns accross the page.
+2)If you donot want to use use 12 columns individually, u can group the columns together to create wider columns.
+3)Bootstap grid system isresponsive, and the columns will re arrange automatically depending on screen size.
+4)The bootstrap grid system have five classes.
+*) col- (extra small devices - screen width lessthan 576px)
+*) col-sm- (small devices - screen width equal to or greater than 576px)
+*) col-md- ( medium devices - screen width equal to or greater than 768px)
+*) col-lg- (large devices - screen width equal to or greater than 992px)
+*) col-xl- (extra large devices - screen width equal to or greater than 1200px)
+
+The classes above can be combine to create dynamic and flexible layouts.
+

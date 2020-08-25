@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>Sizing Columns Based on the Width of their Content</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <style>
+      /* Some custom styles to beautify this example */
+      .row {
+        margin-top: 1rem;
+        background: #dbdfe5;
+      }
+      [class^="col"] {
+        padding: 10px 15px;
+        background: #abb1b8;
+        border: 1px solid rgba(0, 0, 0, 0.5);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row justify-content-md-center">
+        <div class="col-md-3">Column left</div>
+        <div class="col-md-auto">Variable width column</div>
+        <div class="col-md-3">Column right</div>
+      </div>
+      <div class="row">
+        <div class="col">Column left</div>
+        <div class="col-auto">Variable width column</div>
+        <div class="col">Column right</div>
+      </div>
+    </div>
+    <p class="text-center mt-3">
+      <strong>Note:</strong> Enter some more content inside the variable width
+      column to understand how it works.
+    </p>
+  </body>
+</html>
