@@ -6,7 +6,7 @@
 4)It includes HTML,CSS based design templates for forms, buttons, links, tables, navigation, image carosels and many others.
 5)It is compatible on most of the browsers like chrome, firefox, internet explorer, safari and opera etc
 
-----Responsive----
+----Responsive----8
 
 --> A website is called responsive website which can automatically adjust iteslf to look good all devices from smartphones to desktops.
 
@@ -45,4 +45,3 @@ grid system
 *) col-xl- (extra large devices - screen width equal to or greater than 1200px)
 
 The classes above can be combine to create dynamic and flexible layouts.
-
