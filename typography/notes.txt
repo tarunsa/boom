@@ -1,0 +1,17 @@
+Styling and Formatting of text content.
+
+1)Customizing Headings: <small> tag with .text-muted class to display the secondary text of any heading
+ in a smallera and lighter variation.
+
+2)Display Headings: Bootstrap4 introduces display headings that can be used when you need a heading to stand out.
+ Display headings are displayed in larger font-size but lighter font-weight.
+
+ 3)Paragraphs: You can make a paragraph standout by adding the class .lead on it. You can easily align text right,left,
+ center inside a paragraph using the text alignment classes.
+
+ 4)Text Formatting: you are free to use text-formatting tags like <strong>,<i>,<small> to make your text bold, italic,
+ small and so on, in the same way you do in simple html.
+ 
+ 5)Text Transformation: You can also transform text to uppercase, lowercase and capitalize.
+ 6) Colors:text-primary
+ 7)
