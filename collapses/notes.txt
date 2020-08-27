@@ -1,12 +1,17 @@
 Bootstrap 4 collapse:
 --------------------------
 
-*) Collapsibles are useful when youwant to hide and show lrge amount of content.
-*) The .collapse class indicates a Collapsible element, this is te content that will be
+*) Collapsibles are useful when you want to hide and show large amount of content.
+
+*) The .collapse class indicates a Collapsible element, this is the content that will be
     shown or hidden with a click of a button  or link.
+
 *) To control the Collapsible content, add the data-toggle ='collapse' attribute to  an <a> or a <button>
     element. Then add the data-target='#id' attribute to connect the button with the Collapsible content (div id='demo')
+
 *) For <a> elements, you can see the href attribute instead of the data-target attribute.
+
 *) By default, the Collapsible content  is hidden. However, You can add the .show class to show the content by default.
+
 *) Collapsible content is often used to make an "accordion". Accordions are popular for content such as FAQs, product
 overviews, etc. you can use Bootstrap cards to style the accordion.

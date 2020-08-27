@@ -1,0 +1,46 @@
+Bootstrap Nav:
+------------------------
+*) If you want to create simple horizontal men, and the .nav class to a <ul> element, followed by 
+ .nav-item for each <li> and add the .nav-link class to their links.
+
+*) By default, navs are left-aligned but you can easily align them to center or right using flex utilities  Add the 
+   .justify-content-center class to center the nav, and the ,justify-content-end class to right align the nav.
+
+*) Moreover, you can even vertically stack your nv items by changing the flex item direction with class .flex-column
+
+*) Turn the nav menu into navigation tabs with .nav-tabs class. And the ,active class to the active/current link.
+
+*) You can alos add icons to your tab items to make it more attractive.
+
+*) Similarly, you can create a pill based navigation by adding the class .nav-pills on the basic nav instead of .nav-tabs
+
+*) You can force your nav items items to extend any proportionality fill all available width using the class .nav-fill
+   on the .nav element. In the following example all horizontal space is occupied by the nav items, but every nav item
+   doesn't have the same width.
+
+*) Alternatively, you can use the class .nav-justified instead of .nav-fill, if you want nav that fills all 
+   horizontal space as well as every nav item has same width.
+
+*) You can add dropdown menus to links inside the tabs and pills nav with a little extra markup. The four css classes
+   .dropdown, .dropdown-toggle, .dropdown-menu, and .dropdown-item are required in addition to the .nav, .nav-tabs 
+    or .nav-pills classes to creaate a simple dropdown menu inside the nav without sing javascript code.
+
+*) To make tabs toogleable, add the data-toggle='tab' attribute to each link. Then add a .tab-pane class with a unique 
+   id for every tab and wrap theminside a <div> element with class .tab-content.
+
+
+#########################################################################################################################
+  
+  
+   Bootstrap Dropdown:
+   -------------------
+
+   *) The dropdown menu is typically used inside the navigation header to display a list of related links when a user
+      mouse hover or click on the trigger elemen)
+
+   *) Bootstrap provides an easy and elegent mechanism for adding the dropdown menu to a element via data attributes.
+      .dropdown, .dropdown-toggle, .dropdown-menu, ,dropdown-item
+
+
+
+      
