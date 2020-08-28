@@ -1,0 +1,36 @@
+Bootstrap alerts:
+----------------
+
+Alert boxes are used quite often to stand out the informaton that requires immediate attention of the end users 
+such as warning errors or confirmation messages
+
+1) You can create a simple Bootstrap warning alert message box by adding the contextual class .alert-warning
+    to the .alert base class.
+
+2) Data attributes provides a simple and easy way to add close functionality to the alert boxes. just add
+   the data-dismiss='alert' to the close button and it will automatically enable the dismissal of the containing alert 
+   message box. Also add the class .alert-dismissible to the .alert element for proper positioning of the .close button.
+
+Bootstrap Buttons:
+------------------
+*) Buttons are the integral parts of the website and application. Thety are used for various purposes like submit or
+   reset an HTML form performing interactive actions such as showing or hiding showing on webpage on click of the button,
+   redirecting user to anotherpage and so on. Bootstrap provides a quick and easy way to create and customize the buttons.
+
+*) Button styles can be applied to any element. However it is applied normal to the <a>,<input> and <button> elements for
+   the best rendering.
+
+*) You can also create outline buttons by replacing the button modifier classes .
+
+*) Bootstrap gives you option further to scaling button up or down. you can make buttons larger or smaller through adding
+   extra class .btn-lg or .btn-sm.
+
+*) You can also create block level buttons by adding extra class .btn-block to the buttons.
+
+*) Sometimes you need to disable a button for a certain reasons for example,  a user in case is not elogible to perform
+   this particular action, or we want to ensure that user should performed all other required actions before proceed to 
+   this particular action.
+
+*) Without Bootstrap you can easily include spinner icon in a button to indicate the loading state in your application.
+
+

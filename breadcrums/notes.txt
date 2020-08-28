@@ -1,0 +1,7 @@
+Bootstrap Breadcrumb:
+---------------------
+*) A breadcrum is a navigation scheme that indicates current page's location to the user within a website or application.
+   Breadcrumb navigation can greatly enhance the accesibility od the website having a large number of pages or complex 
+   navigational hierarchy.
+
+*) You can create strict breadcrumbs layouts with Bootstrap simply using the class .Breadcrumb on the lists

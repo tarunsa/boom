@@ -1,0 +1,28 @@
+Bootstrap Cards:
+-----------------
+*) A card in Bootstrap 4 is a bordered box with some padding around its content. It includes options for headers, footers
+   content and colors etc.
+
+*) A basic card is created with the .card class, and content inside the card has a .card-body class
+
+*) You can also add header footer within your cards using the .card-header and .card-footer class respectively,
+
+*) You can mix and match multiple content types to create the card you need. Like fixed-width card with images,text
+   list group, links.
+
+*) There are several options for customizing the card backgrounds, borders and color. you can use the text and background 
+   utility classes to change the apperaence of the card.
+
+*) Card decks are similar to card card groups. Only the difference is cards aren't attached to one another.
+
+*) With Bootstrap 4 you can also create grid for cards like pinterest by wrapping them .card-columns. Cards are ordered
+   from top to bottom and left to right.
+
+*) You can also create horizontal cards where image and text content are placed side by side using the combination of
+   grid and utility clsses 
+
+*) You can even turn an image into a card background and place the cards text on the top it using the class 
+   .card-img-overlay in piece of .card-body
+
+*) You can add the class .stretched-link to a link inside the card to make the whole card clickable. Multiple links are 
+    not recommended in stretched links

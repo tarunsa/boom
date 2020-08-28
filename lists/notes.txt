@@ -1,0 +1,28 @@
+Bootstrap lists:
+----------------
+
+*) You can create three different types of html lists: Unordered lists, ordered lists and Defination lists.
+
+*) Sometimes you might need to remove the default styling from list items. you can do this by simply applying the class 
+   .list-unstyled to the respective  <ul> or <ol> elements.
+
+*) If you want to create a horizontal menu using ordered and Unordered lists you need to place all the list items in a 
+   single line  i.e side by side. you can do this by simply applying the class .list-inline to respective <ul> or <ol>
+   and the class .list-inline-item to the <li> elements.
+
+*) The terms and defination in the defination list can also be aligned horizontally side by side using the Bootstrap 
+   grid system's predefined classes.
+
+Bootstrap list groups:
+------------------------
+*) The list groups are very useful and flexible component for displaying lists of elements in a beautiful manner.
+
+*) To create basic list-group, use an <ul>element with class .list-group, and <li> elements with class .list-group-item
+
+*) To create line group with linked items, use <div> instead of <ul> <a> instead of <li>. Optionally add the 
+   .list-group-item-action if you want a grey background color on a hover.
+
+*) Like most of the other componenets you can also use contextual classes  on the list group items to apply extra
+    emphasis on them.
+
+*) Use the .list-group-flush class to remove borders and rounded corners 

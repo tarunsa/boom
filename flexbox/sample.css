@@ -1,0 +1,17 @@
+.logo {
+  width: auto;
+  height: 150px;
+}
+.banner {
+  height: 15px;
+  background-image: url("../cards/artist-image2.png");
+  background-size: cover;
+  background-position: center -100px;
+}
+.callOuts {
+  border: 1px solid #d7d8da;
+}
+.callOuts img {
+  height: auto;
+  width: 100px;
+}
